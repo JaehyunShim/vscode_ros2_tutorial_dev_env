@@ -32,4 +32,4 @@ export RMW_IMPLEMENTATION=rmw_fastrtps_cpp
 alias testpub='ros2 run demo_nodes_cpp talker'
 alias testsub='ros2 run demo_nodes_cpp listener'
 alias testpubimg='ros2 run image_tools cam2image'
-alias testsubimg='ros2 run image_tools showimage
+alias testsubimg='ros2 run image_tools showimage'
